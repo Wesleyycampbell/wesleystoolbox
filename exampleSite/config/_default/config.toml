@@ -3,7 +3,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
-theme = "bigspring-light"
+theme = "wesleystoolbox"
 title = "Wesley's Toolbox"
 [markup.goldmark.renderer]
 unsafe = true
