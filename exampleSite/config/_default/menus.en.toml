@@ -1,8 +1,4 @@
-# main menu
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
+
 
 [[main]]
 name = "Blog"

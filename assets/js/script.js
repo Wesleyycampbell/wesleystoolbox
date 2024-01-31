@@ -16,3 +16,11 @@ $(window).on('load', function () {
 	});
 
 })(jQuery);
+
+
+$(function () {
+	$(document).scroll(function () {
+		var $nav = $(".navigation");
+		$nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+	  });
+  });

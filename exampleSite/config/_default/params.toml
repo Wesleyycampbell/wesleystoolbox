@@ -19,7 +19,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "HIRE ME"
 link = "contact"
 
 # cookies
