@@ -4,7 +4,6 @@
 
 <h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/bigspring-light" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fbigspring%2Fsite%2F&form_factor=desktop">Page Speed (95%)🚀</a></h2>
 
-
 <h2 align=center>We are thrilled to announce bigspring Pro today with lots of new features . For more Details please <a href="https://gethugothemes.com/products/bigspring">check here<a></h2>
 
 <p align=center>
@@ -35,27 +34,27 @@
 
 ## 🔑Discover Free & Premium Features
 
-Featurees | [Bigspring LIght](https://github.com/themefisher/bigspring-light)  | [Bigspring Premium](https://gethugothemes.com/products/bigspring/?ref=github) |
-:------------ |    :----:    |     :----:    |
-Google analytics support                   | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-CSS and Js bundle with hugo pipe           | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Netlify settings predefine                 | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)               |
-Color and fonts variable in config file    | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Contact form Support                       | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-GDPR consent enable                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Google page speed optimized                | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Open graph meta tag                        | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Twitter card meta tag                      | ![](https://demo.gethugothemes.com/icons/tick.png) | ![](https://demo.gethugothemes.com/icons/tick.png)                |
-Dark and Light mode available              | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png)          |
-image optimize with hugo pipe              | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png)          |
-Google font loads from webfont loader      | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png)          |
-Multiple language support (En, De, Zh-Cn, Hi, Jp, ko, Fr, Es, Id, It, Ru)      | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Caching enable                            | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Multiple author support                    | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
-17+ Premium Pages                          | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Site verification support (google, bing, baidu)       | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Priority Support                           | ![](https://demo.gethugothemes.com/icons/x.png) | ![](https://demo.gethugothemes.com/icons/tick.png) |
-Get It Now | [![download-light](https://demo.gethugothemes.com/icons/download.png)](https://github.com/themefisher/bigspring-light/archive/refs/heads/master.zip) | [![download](https://demo.gethugothemes.com/icons/grab.png)](https://gethugothemes.com/products/bigspring/?ref=github)
+| Featurees                                                                 |                                          [Bigspring LIght](https://github.com/themefisher/bigspring-light)                                           |                     [Bigspring Premium](https://gethugothemes.com/products/bigspring/?ref=github)                      |
+| :------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+| Google analytics support                                                  |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| CSS and Js bundle with hugo pipe                                          |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Netlify settings predefine                                                |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Color and fonts variable in config file                                   |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Contact form Support                                                      |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| GDPR consent enable                                                       |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Google page speed optimized                                               |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Open graph meta tag                                                       |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Twitter card meta tag                                                     |                                                  ![](https://demo.gethugothemes.com/icons/tick.png)                                                  |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Dark and Light mode available                                             |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| image optimize with hugo pipe                                             |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Google font loads from webfont loader                                     |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Multiple language support (En, De, Zh-Cn, Hi, Jp, ko, Fr, Es, Id, It, Ru) |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Caching enable                                                            |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Multiple author support                                                   |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| 17+ Premium Pages                                                         |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Site verification support (google, bing, baidu)                           |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Priority Support                                                          |                                                   ![](https://demo.gethugothemes.com/icons/x.png)                                                    |                                   ![](https://demo.gethugothemes.com/icons/tick.png)                                   |
+| Get It Now                                                                | [![download-light](https://demo.gethugothemes.com/icons/download.png)](https://github.com/themefisher/bigspring-light/archive/refs/heads/master.zip) | [![download](https://demo.gethugothemes.com/icons/grab.png)](https://gethugothemes.com/products/bigspring/?ref=github) |
 
 ## 🔧Local development
 
@@ -68,6 +67,7 @@ $ cd bigspring-light/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
+
 ```
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/bigspring/?ref=github).
@@ -79,8 +79,8 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 
 Follow the steps.
 
-
 <!-- reporting issue -->
+
 ## 🐞Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Bigspring Template. Please Search [existing
@@ -90,15 +90,16 @@ issue](https://github.com/themefisher/bigspring-hugo/issues).
 
 ## 📱Submit Your Website To Our Showcase
 
-Are you using Bigspring Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
+Are you using Bigspring Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase).
 
-Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator.
 
-View all the websites powered by Bigspring Hugo from [here](https://gethugothemes.com/showcase?theme=bigspring). 
+View all the websites powered by Bigspring Hugo from [here](https://gethugothemes.com/showcase?theme=bigspring).
 
 [Submit](https://gethugothemes.com/showcase?submit=show) your Bigspring Hugo powered website.
 
 <!-- licence -->
+
 ## 📄License
 
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
@@ -110,6 +111,7 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
+
 ## 🙏Special Thanks
 
 - [Bootstrap](https://getbootstrap.com)
@@ -127,8 +129,9 @@ If you need to customize the theme or complete website development from scratch,
 [Services](https://gethugothemes.com/services/?utm_source=bigspring_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 <!-- premium themes -->
+
 ## 💎Premium Themes By Us
 
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=bigspring_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Orbitor](https://demo.gethugothemes.com/thumbnails/orbitor.png)](https://gethugothemes.com/products/orbitor/) | [![Andromeda](https://demo.gethugothemes.com/thumbnails/andromeda.png)](https://gethugothemes.com/products/andromeda/) |
-|:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle**| **Orbitor** | **Andromeda** |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|                                                                              **Get 55+ Premium Hugo Themes Bundle**                                                                              |                                                   **Orbitor**                                                    |                                                     **Andromeda**                                                      |
