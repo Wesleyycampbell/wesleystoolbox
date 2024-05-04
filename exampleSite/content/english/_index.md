@@ -1,13 +1,19 @@
 ---
 ####################### Banner #########################
 banner:
-  title: "Let us solve your critical website <br> development challenges"
-  image: "images/banner-art.svg"
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  title: "Software engineering for   "
+  image: "images/01.png"
+  content: "Group base project learning with real world problems. We teach you how to work and built like a team of software engineers."
   button:
     enable: true
-    label: "Contact Us"
+    label: "Get Started"
     link: "contact/"
+
+################## left content start #####################
+
+left:
+  enable: true
+  title: "Limitless learning at your"
 
 ##################### Feature ##########################
 feature:
