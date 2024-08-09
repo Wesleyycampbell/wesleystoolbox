@@ -18,37 +18,37 @@ left:
 ##################### Feature ##########################
 feature:
   enable: true
-  title: "Something You Need To Know"
+  title: "Here are six compelling reasons why construction workers should consider learning programming"
   feature_item:
     # feature item loop
-    - name: "Clean Code"
+    - name: "Automation of Repetitive Tasks "
       icon: "fas fa-code"
-      content: "A guide on how to start a blog in 10 minutes or less"
+      content: "Programming can automate tasks that are repetitive and time-consuming"
 
     # feature item loop
-    - name: "Object Oriented"
+    - name: "Efficiency and Productivity*"
       icon: "fas fa-object-group"
-      content: "A list of the best web hosting services for bloggers and website owners"
+      content: " With programming skills, construction workers can develop tools that improve efficiency and productivity on the job site,"
 
     # feature item loop
-    - name: "24h Service"
+    - name: "Problem-Solving"
       icon: "fas fa-user-clock"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "It provides construction workers with the ability to create solutions for unexpected issues that may arise during a project"
 
     # feature item loop
-    - name: "Value For Money"
+    - name: "Data Management"
       icon: "fas fa-heart"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "Construction projects generate vast amounts of data. Programming can help manage and analyze this data effectively."
 
     # feature item loop
-    - name: "Faster Response"
+    - name: "Integration of Advanced Technologies"
       icon: "fas fa-tachometer-alt"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "As the construction industry adopts new technologies like 3D printing and robotics"
 
     # feature item loop
-    - name: "Cloud Support"
+    - name: "Career Advancement"
       icon: "fas fa-cloud"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: " The construction industry is evolving, and having programming skills can open up new career opportunities within the field."
 
 ######################### Service #####################
 service:

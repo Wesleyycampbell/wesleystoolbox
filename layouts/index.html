@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <!-- banner -->
 {{ with .Params.banner }}
 <!-- =======================
@@ -266,7 +266,7 @@
           </figure>
           <!-- Title -->
           <h1 class="mb-0 display-6">{{ .title | markdownify }}
-            <span class="position-relative">Constuction
+            <span class="position-relative">General
               <!-- SVG START -->
               <span class="position-absolute top-50 start-50 translate-middle ms-3 z-index-n1">
                 <svg width="300px" height="62.1px" enable-background="new 0 0 366 62.1" viewBox="0 0 366 62.1" xmlns="http://www.w3.org/2000/svg">
@@ -274,9 +274,9 @@
                 </svg>
               </span> 
               <!-- SVG END -->
-            </span> worker
+            </span>laborers
           </h1>
-          
+
           <!-- Content -->
           <p class="my-4 lead">{{ .content | markdownify }}</p>
           
@@ -295,17 +295,17 @@
             {{ if .button.enable }}
                   {{ with .button }}
             
-            <a href="{{ .link | safeURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
+            <a href="{{ .linkf | safeURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
 
             {{ end }}
             {{ end }}
-            <!-- Video button -->
+            <!-- Video button
           <div class="d-flex align-items-center justify-content-center py-2 ms-0 ms-sm-4">
               <a data-glightbox="" data-gallery="office-tour" href="https://www.youtube.com/embed/tXHviS-4ygo" class="btn btn-round btn-primary-shadow mb-0 overflow-visible me-7"> 
                 <i class="fas fa-play"></i>
                 <h6 class="mb-0 ms-3 fw-normal position-absolute start-100 top-50 translate-middle-y">Watch video</h6>
               </a>
-            </div>
+            </div> -->
 
           </div>
         </div> 
@@ -433,12 +433,14 @@
             <div class="row align-items-center">
               <!-- Title -->
               <div class="col-lg-7">
-                <h3 class="text-white">Become an Instructor!</h3>
-                <p class="text-white mb-3 mb-lg-0">Speedily say has suitable disposal add boy. On forth doubt miles of child. Exercise joy man children rejoiced. Yet uncommonly his ten who diminution astonished.</p>
+                <h3 class="text-white">Get Your Weekly Lesson Delivered!
+                </h3>
+                <p class="text-white mb-3 mb-lg-0">Struggling to fit learning into your busy schedule? No problem! Subscribe to our weekly newsletter and receive a digest filled with class summaries, notes, and study tips. Join us and learn at your own pace!
+              </p>
               </div>
               <!-- Content and input -->
               <div class="col-lg-5 text-lg-end">
-                <a href="https://eduport.webestica.com/#" class="btn btn-outline-warning mb-0">Start Teaching Today</a>
+                <a href="https://eduport.webestica.com/#" class="btn btn-outline-warning mb-0">Join now</a>
               </div>
             </div>
           </div>
